@@ -16,4 +16,5 @@ Instructions and additional comments to run the analyses:
 - The R scripts include steps and code for installing additional dependencies, such as zonator, which is designed to work in conjunction with the Zonation software.
 
 Please download these files, and set your working directory appropriately in R. 
+
 <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10286100.svg">
