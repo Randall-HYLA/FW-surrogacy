@@ -1,4 +1,4 @@
-# FW-surrogacy
+# FW-surrogacy (Nature paper)
 
 The code assess the extent to which the conservation efforts targeting threatened reptiles, birds, mammals, and amphibians—either individually or collectively—can act as surrogates for the conservation of threatened freshwater species, including combined odonates, decapods, and freshwater fish. This evaluation is accomplished by calculating a species accumulation index (SAI) of surrogate effectiveness, as defined by Cox et al. in 2022. The analysis is carried out within the context of two primary global conservation strategies: 1) Maximizing rarity-weighted richness, and 2) Maximizing inclusion of range-restricted species.
 
